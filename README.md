@@ -186,4 +186,5 @@ GuruDoc AI is a **production-aligned backend AI system** that demonstrates how m
 
 ---
 
-**Auth
+## Author: Guru Dahiphale
+
